@@ -1,0 +1,4 @@
+ * Allow binding of external dirs in portage/packages for easy package retrieval
+ * Implement configuration domains per buildenv (eg foo.use="use1 use2 -use3").
+ * ???
+ * profit
